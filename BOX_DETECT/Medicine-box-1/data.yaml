@@ -1,0 +1,11 @@
+train: C:/Users/yldrm/Documents/GitHub/proje-kod-ve-raporu-ORHANCANYILDIRIM/Kutu Tespiti/Medicine-box-1/train/images
+val: C:/Users/yldrm/Documents/GitHub/proje-kod-ve-raporu-ORHANCANYILDIRIM/Kutu Tespiti/Medicine-box-1/valid/images
+test: C:/Users/yldrm/Documents/GitHub/proje-kod-ve-raporu-ORHANCANYILDIRIM/Kutu Tespiti/Medicine-box-1/test/images
+
+nc: 5
+names:
+  - Medicine1
+  - Medicine2
+  - Medicine3
+  - Medicine4
+  - Medicine5
